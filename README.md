@@ -1,4 +1,4 @@
-# formular-230
+# formular-230-2019
 Formular redirectionare 2% din impoztul pe venit
 
 Cele două fișiere sunt același formular. Unul poate fi imprimat, completat cu mâna si depus la ANAF, iar cel electronic permite completarea lui pe calculator pritat și depus la ANAF (Nu știm dacă poate fi depus și online)
